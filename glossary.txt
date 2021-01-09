@@ -1,0 +1,50 @@
+vaccine
+disease
+contagious
+asymptomatic
+respiratory
+direct transmission
+epidemic
+pandemic
+quarantine
+incubation period
+isolation
+spread
+social distancing
+transmission rate
+mortality
+formite
+outbreak
+self-quarantine
+super-spreader
+childs
+student
+moral
+infection
+virus
+coronavirus
+covid
+sars-cov
+antibodies
+containment
+pneumonia
+falality
+herd immunity
+immunocompromised
+incidence
+incubation
+intubation
+morbidity
+physical distancing
+symptoms
+symptomatic
+old people
+older
+visitors
+hands
+mask
+masks
+ventilator
+city
+cities
+vaccination
