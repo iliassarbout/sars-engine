@@ -1,4 +1,4 @@
-# sars-engine
+# Sars-engine
 Sars engine aims to be a collaborative framework for public-health coronavirus prevention.
 Sars-engine was developped by two computer science students in the context of a linguistic-engeneering class, part of the Polytechnic University of Madrid AI master.
 Before using this application, you should read it documentation in the 'report.pdf' file.
